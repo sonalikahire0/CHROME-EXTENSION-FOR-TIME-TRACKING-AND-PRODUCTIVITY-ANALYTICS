@@ -19,3 +19,5 @@ A Chrome extension designed to track the time users spend on different websites 
 The project features an interactive popup interface that displays real-time usage statistics, helping users understand and improve their browsing habits. The tracked data can be stored for further analysis, enabling the generation of weekly productivity reports. This project demonstrates practical use of Chrome Extension APIs, JavaScript, and browser event handling to build a productivity-focused tool.
 
 Output:
+
+<img width="308" height="214" alt="Image" src="https://github.com/user-attachments/assets/dc0f8cc1-6c8f-441b-944f-377e9ffc292d" />
